@@ -42,3 +42,20 @@ i {
 .fields{
     margin:8% 0%;
 }
+
+
+@media screen and (max-width: 500px){
+    .name{
+        font-size: 350%;
+    }
+    .major-skills{
+        font-size: .8rem;    
+    }
+    .block2{
+        padding-top: 2rem;
+    }
+    .fields{
+        margin-top: 0%;
+    }
+    
+}
