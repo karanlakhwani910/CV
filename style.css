@@ -1,0 +1,64 @@
+.page{
+    width: 90%;
+    margin: 8% auto;
+}
+.block2{
+    margin-left: 0%;
+}
+.name{
+    font-size: 500%;
+    font-family: 'Libre Baskerville', serif;
+}
+@media screen and (max-width: 500px){
+    body{
+        width: 100%;
+        margin: 4% auto;
+    }
+    .name{
+        font-size: 350%;
+    }
+    .major-skills{
+        font-size: .8rem;    
+    }
+    .block2{
+        padding-top: 2rem;
+    }
+    .fields{
+        margin-top: 0%;
+    }
+    
+}
+
+.major-skills{
+    font-family: sans-serif;
+    font-size: 2.2rem;
+}
+.contact{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.3rem;
+    margin-bottom: 10%;
+    line-height: 150%;
+}
+.head{
+    font-size: 2.5rem;
+    color: rgb(88, 88, 214);
+}
+
+
+
+
+i {
+    padding-top: 11px;
+  }
+
+
+.point{
+    font-size: 190%;
+    color: black;
+}
+.point-description{
+    color: rgb(133, 133, 133);
+}
+.fields{
+    margin:8% 0%;
+}
